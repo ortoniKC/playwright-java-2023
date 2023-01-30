@@ -22,3 +22,5 @@
 |15. Download files|https://youtu.be/zVQIZ9fHoPw|https://youtu.be/DCgUN5VKx5s|
 |16. Upload multiple files|https://youtu.be/-EuW8xxb-34|https://youtu.be/ja3PcZkd5oo|
 |17. Screenshots|https://youtu.be/lmpbQ_qw70I|https://youtu.be/e2xdGuD1LPc|
+|18. Window Handling |https://youtu.be/DQiYwZU84WQ|https://youtu.be/93E-YBFJBdQ|
+|19. How to interact with multiple elements|https://youtu.be/CpQ8Q7bnf9s|https://youtu.be/MWR6ekyIHGE|
