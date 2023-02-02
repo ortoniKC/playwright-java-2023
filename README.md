@@ -24,3 +24,4 @@
 |17. Screenshots|https://youtu.be/lmpbQ_qw70I|https://youtu.be/e2xdGuD1LPc|
 |18. Window Handling |https://youtu.be/DQiYwZU84WQ|https://youtu.be/93E-YBFJBdQ|
 |19. How to interact with multiple elements|https://youtu.be/CpQ8Q7bnf9s|https://youtu.be/MWR6ekyIHGE|
+|20. Advantage and disadvantage of Playwright Assertion|https://youtu.be/oSUX-dqZQEA|https://youtu.be/TuJLLRasYS4|
